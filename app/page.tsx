@@ -58,10 +58,10 @@ export default function Home() {
           <h2 className="font-semibold text-xl">Como ganhar</h2>
           <p>É simples! Preencha o formulário com o curso desejado e seu nome, para que possamos enviar mais informações sobre o curso e garantir o seu presente. Ou, se preferir, clique no botão do WhatsApp e tire suas dúvidas diretamente comigo. Não deixe essa oportunidade passar, estou aqui para ajudar você a dar o próximo passo na sua formação!</p>
           <div className="flex flex-col w-full p-6 gap-4 items-center">
-            <a href="#" className="p-4 w-full bg-purple-500 text-white text-center rounded-lg shadow hover:bg-blue-600 transition duration-300">
+            <a href="https://forms.gle/WM7gCoGGiwPgsKF97" target="_blank" className="p-4 w-full bg-purple-500 text-white text-center rounded-lg shadow hover:bg-blue-600 transition duration-300">
               Preencher formulário
             </a>
-            <a href="https://wa.me/seu-numero-de-whatsapp" target="_blank" rel="noopener noreferrer" className="p-4 w-full bg-green-500 text-white text-center rounded-lg shadow hover:bg-green-600 transition duration-300">
+            <a href="https://wa.me/5581999069969?text=Quero%20saber%20mais%20sobre%20os%20cursos" target="_blank" rel="noopener noreferrer" className="p-4 w-full bg-green-500 text-white text-center rounded-lg shadow hover:bg-green-600 transition duration-300">
               Falar pelo WhatsApp
             </a>
           </div>
